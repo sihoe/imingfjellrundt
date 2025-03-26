@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "name": "Solheimstulen Turisthytte",
+    "lat": 60.299804316,
+    "lon": 8.340905144,
+    "desc": ""
+  },
+  {
+    "name": "Imingfjell Turistheim",
+    "lat": 60.233834168,
+    "lon": 8.585211579,
+    "desc": ""
+  },
+  {
+    "name": "Vestsidevegen",
+    "lat": 60.265914826,
+    "lon": 8.596990974,
+    "desc": ""
+  },
+  {
+    "name": "Uvdal alpinsenter",
+    "lat": 60.300651622,
+    "lon": 8.54002945,
+    "desc": ""
+  },
+  {
+    "name": "Utfartsparkering",
+    "lat": 60.300883007,
+    "lon": 8.342754566,
+    "desc": ""
+  },
+  {
+    "name": "Solheimstulen Imingfjell DNT",
+    "lat": 60.266883436,
+    "lon": 8.362426022,
+    "desc": "følg veien rett frem, ikke stien til Imingfjell"
+  },
+  {
+    "name": "Vikstul",
+    "lat": 60.227296561,
+    "lon": 8.395850658,
+    "desc": ""
+  },
+  {
+    "name": "Kryss elva til Uvdalsvegen",
+    "lat": 60.315692251,
+    "lon": 8.497465166,
+    "desc": ""
+  },
+  {
+    "name": "Følg merking Imingfjell",
+    "lat": 60.295455134,
+    "lon": 8.346110973,
+    "desc": ""
+  },
+  {
+    "name": "Badeplass Ølmøs",
+    "lat": 60.255229238,
+    "lon": 8.619871772,
+    "desc": "sjekk svingom.no for mer informasjon"
+  },
+  {
+    "name": "Camp Uvdal",
+    "lat": 60.26496739,
+    "lon": 8.788492013,
+    "desc": ""
+  },
+  {
+    "name": "Imingfjell",
+    "lat": 60.258746486,
+    "lon": 8.562716119,
+    "desc": ""
+  },
+  {
+    "name": "Sønstevann",
+    "lat": 60.221410452,
+    "lon": 8.549694535,
+    "desc": ""
+  },
+  {
+    "name": "Badeplass Beltetjønn",
+    "lat": 60.306056497,
+    "lon": 8.301768732,
+    "desc": ""
+  },
+  {
+    "name": "DNT=ruten mot Imingfjell er ikke egnet for sykling. Følg veien til høyre",
+    "lat": 60.266763747,
+    "lon": 8.361848504,
+    "desc": ""
+  }
+]
